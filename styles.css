@@ -1,0 +1,12 @@
+body
+{
+    border: 4px;
+    background-color: aqua;
+    color: purple;
+    margin: 0;
+}
+
+canvas
+{
+    background-color: white;
+}
